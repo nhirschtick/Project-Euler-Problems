@@ -114,9 +114,9 @@ function getLetterValue(char){
 
 //  works
 function sorter(a, b){
-//  output the word with a higher alphabetical order placement (shorter is higher too)
+//  output the word with a higher alphabetical order placement (shorter is higher)
 
-//  this can be done recursively (try again)
+//  this can likely be done recursively
   let out = 0;
 
   const aValue = getLetterValue(a[0]);
@@ -131,7 +131,7 @@ function sorter(a, b){
     out = 2;
   } else if(aValue === bValue) {
 
-    //  if a === b then it gets interesting...
+    //  if a === b then
     //  first, check that a and b both have at least 1 letter left before recursion (to prevent an undefined error)
 
     if(a.length <= 1){
