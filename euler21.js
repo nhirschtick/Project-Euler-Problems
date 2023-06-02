@@ -35,11 +35,11 @@ function isPartOfAmicablePair(origin){
   if(origin === sumOfOrigin) // d(a) = a
     bool = false;
 
-
+/*
   // for debugging:
   if(bool)
     console.log(`${origin} and ${sumOfOrigin} are a pair`);
-
+*/
 
   return (bool);
 }
