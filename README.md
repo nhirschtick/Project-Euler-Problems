@@ -7,4 +7,4 @@ I really like this website because it is difficult to explain to someone who jus
 
 It's one thing to write a for-loop that prints "cat dog" 100 times and a completely different thing to find the sum of all the multiples of 3 or 5 below 1000. (The answer is 233168 and this is the first problem listed on Project Euler's website)
 
-In recent years, I've used many of the problems on this website as a way of brushing up on or learning new coding languages and as a way of keeping myself in the cs mindset at times when I'm not taking any computer science classes in school. It really helps me develop creative problem solving.
+In recent years, I've used many of the problems on this website as a way of brushing up on or learning new coding languages and as a way of keeping myself in the cs mindset at times when I'm not taking any coding classes (when my courseload is mainly theoretical cs). It really helps me develop creative problem solving.
